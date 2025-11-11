@@ -1,0 +1,29 @@
+
+---
+
+## 🧹 .gitignore
+
+Create a new file named `.gitignore` with this content 👇
+
+```gitignore
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database
+alumni_meet.db
+
+# Environment
+.env
+venv/
+ENV/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
